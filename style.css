@@ -1,0 +1,12 @@
+/* Personalizações de estilo */
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+p {
+    font-size: 1.1rem;
+}
